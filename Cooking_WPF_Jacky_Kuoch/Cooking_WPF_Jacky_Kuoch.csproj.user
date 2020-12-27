@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Accueil_Client.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CdR.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Commande.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Confirmation_CdR.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Demo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Gestionnaire.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inscription.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NewRecette.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Accueil_Client.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CdR.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Commande.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Confirmation_CdR.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Demo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Gestionnaire.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inscription.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NewRecette.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

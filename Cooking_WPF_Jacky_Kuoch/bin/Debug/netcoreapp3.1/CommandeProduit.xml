@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Commande>
+  <Date>2020-05-09</Date>
+  <Fournisseur>
+    <Nom> Carrefour</Nom>
+    <Telephone> 0148752256</Telephone>
+    <Produit>
+      <Nom_Produit>Crème Fraîche</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Saumon</Nom_Produit>
+      <Quantité>15</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Pates</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Riz Basmati</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Poulet</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Mascarpone</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sucre en poudre</Nom_Produit>
+      <Quantité>3000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Poudre de Cacao</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Linguine</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Ail</Nom_Produit>
+      <Quantité>50</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Tranche de Pain</Nom_Produit>
+      <Quantité>60</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Farine</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Lait</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sucre en morceaux</Nom_Produit>
+      <Quantité>3000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Jus de Citron</Nom_Produit>
+      <Quantité>50</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Curry Indien</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Oeufs</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Café</Nom_Produit>
+      <Quantité>300</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Crevettes</Nom_Produit>
+      <Quantité>150</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Mayonnaise</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Chocolat noir en tablettes</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Beurre</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Vanille</Nom_Produit>
+      <Quantité>20</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Amandes</Nom_Produit>
+      <Quantité>900</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sel</Nom_Produit>
+      <Quantité>500</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Fraises</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Groseilles</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Framboises</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+  </Fournisseur>
+  <Fournisseur>
+    <Nom> MiamLand</Nom>
+    <Telephone> 0156887523</Telephone>
+    <Produit>
+      <Nom_Produit>Crème Fraîche</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Saumon</Nom_Produit>
+      <Quantité>15</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Pates</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Riz Basmati</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Poulet</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Mascarpone</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sucre en poudre</Nom_Produit>
+      <Quantité>3000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Poudre de Cacao</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Linguine</Nom_Produit>
+      <Quantité>2000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Ail</Nom_Produit>
+      <Quantité>50</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Tranche de Pain</Nom_Produit>
+      <Quantité>60</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Farine</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Lait</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sucre en morceaux</Nom_Produit>
+      <Quantité>3000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Jus de Citron</Nom_Produit>
+      <Quantité>50</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Curry Indien</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Oeufs</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Café</Nom_Produit>
+      <Quantité>300</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Crevettes</Nom_Produit>
+      <Quantité>150</Quantité>
+      <Unité> Unité</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Mayonnaise</Nom_Produit>
+      <Quantité>100</Quantité>
+      <Unité> cL</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Chocolat noir en tablettes</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Beurre</Nom_Produit>
+      <Quantité>1000</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Vanille</Nom_Produit>
+      <Quantité>20</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Amandes</Nom_Produit>
+      <Quantité>900</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Sel</Nom_Produit>
+      <Quantité>500</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Fraises</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Groseilles</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+    <Produit>
+      <Nom_Produit> Framboises</Nom_Produit>
+      <Quantité>200</Quantité>
+      <Unité> g</Unité>
+    </Produit>
+  </Fournisseur>
+</Commande>
