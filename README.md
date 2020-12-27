@@ -26,4 +26,7 @@ A recipe creator must be able to :
 - Delete a recipe
 - Delete a cook from the database
 
+> ## Solution :
+**We created a database using MySQL and multiple tables to store our data and created the intefaces using C#**
 
+Our database is based on 8 tables : Client(customer), CreateurdeRecettes(cooks), Commande(order), Recette(recipe), Details_Commande(order details), Fournisseur(supplier), Produit(product) and Ingredients_Recettes(recipe's ingredients)
