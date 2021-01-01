@@ -54,4 +54,4 @@ Obviously a cook can create recipes and therefore we built an interface on which
 > ## Conclusion :
 This project was really interesting as we discovered how to exploit our MySQL knowledge in a practical subject relying on our previous C# knowledge. But it also allowed us to discover WPF and its functionnalities that can be very useful. 
 
-In the end, I managed to get a grade of 19.5/20 for this project that was the main evaluation of the course 'Database & interoperability'
+In the end, I managed to get a grade of 19.5/20 for this project that was the main evaluation of the course 'Database & Interoperability'.
